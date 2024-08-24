@@ -1,5 +1,7 @@
 import csv
 import pandas as pd
+
+
 with open ("files/city_temperature.csv",'r') as file:
     data_list = list(csv.reader(file))
 
@@ -37,7 +39,6 @@ with open(f'files/{filename}', 'w') as csvfile:
 #question - why is there a blank row in between each row?
 
 #using panadas to read and print csv file 
-
 #read the csv file in to a DataFrame
 df = pd.read_csv('files/city_temperature.csv') 
 #display the DataFrame
