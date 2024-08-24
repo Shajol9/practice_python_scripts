@@ -1,0 +1,6 @@
+microchipstudio
+natebeen
+vivado
+cadence virtuoso 
+aimspice
+matlab
