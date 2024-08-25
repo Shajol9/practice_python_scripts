@@ -1,0 +1,9 @@
+[{"question_text":"What is the capital of Norway?", 
+"options": ["Bargen", "Stavenfger", "Oslo", "Trondheim"],
+"correct_answer": 3 },
+{"question_text": "When is the independence day of Norway?",
+"options": ["26 March", "14 February", "1 january", "17 May"],
+"correct_answer": 4},
+{"question_text": "The Blue whel is a mamel and amphibian.",
+"options": ["True", "False"],
+"correct_answer": 2}]
