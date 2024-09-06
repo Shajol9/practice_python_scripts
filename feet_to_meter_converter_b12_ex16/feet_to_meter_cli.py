@@ -5,7 +5,7 @@ hight = input("Enter the hight in feet and inches\nProcess: feet space inches: "
 
 parsed_hight = parse(hight)
 
-hight_in_meter = converter.feet_to_miter(parsed_hight["feet"], parsed_hight["inches"])
+hight_in_meter = converter.feet_to_meter(parsed_hight["feet"], parsed_hight["inches"])
 
 print(f"Your hight in meter scale is: {hight_in_meter} meters")
 
